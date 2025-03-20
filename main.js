@@ -66,3 +66,5 @@ const retrieveOrderSummary = () => {
 };
 
 button.addEventListener("click", retrieveOrderSummary);
+
+// testing if it updates
